@@ -4,7 +4,7 @@ openai==1.31.0
 Werkzeug==2.3.7
 langchain==0.2.3
 langchain-community==0.0.19
-faiss-cpu==1.7.4
+faiss-cpu
 sentence-transformers==2.7.0
 pymupdf==1.24.0
 pytesseract==0.3.10
@@ -14,3 +14,4 @@ beautifulsoup4==4.12.3
 transformers==4.40.0
 torch==2.2.2
 accelerate==0.28.0
+
