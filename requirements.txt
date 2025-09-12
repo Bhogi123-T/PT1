@@ -1,0 +1,16 @@
+Flask
+python-dotenv
+openai
+Werkzeug
+langchain
+langchain-community
+faiss-cpu
+sentence-transformers
+pymupdf
+pytesseract
+Pillow
+requests
+beautifulsoup4
+transformers
+torch
+accelerate
