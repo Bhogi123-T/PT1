@@ -1,13 +1,3 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,50:1a3a1a,100:22c55e&height=200&section=header&text=PT1%20%26%20Codesoft&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Python%20Foundations%20%E2%80%A2%20Algorithms%20%E2%80%A2%20Problem%20Solving&descAlignY=60&descSize=16&animation=fadeIn" />
-<br/>
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-</div>
 
 
 🧠 PT1 — Python Foundations
